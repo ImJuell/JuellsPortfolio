@@ -23,3 +23,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock Up
 https://www.veed.io/view/67e9ca9a-5c98-4dc3-854d-2226139ffab4
+![Screen Recording 2023-10-02 at 11 23 02 PM](https://github.com/ImJuell/JuellsPortfolio/assets/133014136/54af0af0-d58e-4d7c-95f5-9711b685f9cf)
+
